@@ -1,5 +1,4 @@
 # DBMS-UMD-Parking-Lot-System
-# DBMS-UMD-Parking-Lot-System
 Readme
 Group Members: Rashi Madnani, Gunjan Sharma, Hridyansh Gupta, Minghao Fang.
 Group No: 9 Course: BUDT703 Data Sources:
